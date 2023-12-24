@@ -1,0 +1,9 @@
+Index: TimofeySchool.txt
+===================================================================
+diff --git a/TimofeySchool.txt b/TimofeySchool.txt
+deleted file mode 100644
+--- a/TimofeySchool.txt	(revision 04a41bff22139c6d2cdf9e07b52bc88c914a3cfc)
++++ /dev/null	(revision 04a41bff22139c6d2cdf9e07b52bc88c914a3cfc)
+@@ -1,1 +0,0 @@
+-771
+\ No newline at end of file
